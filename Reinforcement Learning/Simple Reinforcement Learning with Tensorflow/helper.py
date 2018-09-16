@@ -48,7 +48,7 @@ def saveToCenter(i,rList,jList,bufferArray,summaryLength,h_size,sess,mainQN,time
         imagesS = np.multiply(np.ones([len(imagesS),84,84,3]),np.reshape(luminance,[len(imagesS),84,84,1]))
         make_gif(np.ones([len(imagesS),84,84,3]),'Center/frames/sal'+str(i)+'.gif',duration=len(imagesS)*time_per_step,true_image=False,salience=True,salIMGS=luminance)
 
-        images = zip(bufferArray[:,0])
+		images = list(zip(bufferArray[:,0]))		
         images.append(bufferArray[-1,3])
         images = np.vstack(images)
         images = np.resize(images,[len(images),84,84,3])
