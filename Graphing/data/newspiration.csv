@@ -1,0 +1,222 @@
+Country,Hour,Minute,Second,Time,READER?
+Alberta,,1,30,90,Yes
+Toronto,,2,21,141,Yes
+United States,,4,10,250,Yes
+Toronto,,3,9,189,Yes
+Hong Kong,,25,5,1505,Yes
+Hong Kong,,22,58,1378,Yes
+Vancouver,,9,13,553,Yes
+Vancouver,,5,0,300,Yes
+Toronto,,6,30,390,Yes
+Vancouver,1,20,8,4808,Yes
+United States,,5,10,310,Yes
+Toronto,,4,48,288,Yes
+Toronto,,24,18,1458,Yes
+Toronto,,3,0,180,Yes
+Toronto,,5,44,344,Yes
+Toronto,,23,38,1418,Yes
+Hong Kong,,20,26,1226,Yes
+Toronto,,,30,30,Yes
+United States,,10,28,628,Yes
+Hong Kong,,1,18,78,Yes
+Toronto,,,23,23,Yes
+Toronto,,3,0,180,Yes
+Toronto,,18,12,1092,Yes
+Hong Kong,,,30,30,Yes
+Hong Kong,,,40,40,Yes
+Vancouver,,7,0,420,Yes
+Toronto,,,30,30,Yes
+Toronto,,8,30,510,Yes
+Hong Kong,,27,1,1621,Yes
+Toronto,,,50,50,Yes
+Toronto,,9,20,560,Yes
+Toronto,,34,53,2093,Yes
+Toronto,,16,24,984,Yes
+Toronto,,7,15,435,Yes
+Alberta,,11,40,700,Yes
+Toronto,,4,10,250,Yes
+Toronto,,12,20,740,Yes
+Vancouver,,,40,40,Yes
+Toronto,,10,53,653,Yes
+Toronto,,15,44,944,Yes
+Vancouver,,3,17,197,Yes
+Toronto,,25,0,1500,Yes
+Hong Kong,,30,38,1838,Yes
+Toronto,,,20,20,Yes
+Toronto,,2,12,132,Yes
+Hong Kong,,8,49,529,Yes
+United States,,1,10,70,Yes
+Hong Kong,,32,47,1967,Yes
+Hong Kong,,23,36,1416,Yes
+Toronto,,4,40,280,Yes
+Hong Kong,,1,30,90,Yes
+Vancouver,,8,1,481,Yes
+Toronto,,3,40,220,Yes
+Toronto,,1,10,70,Yes
+Toronto,,1,40,100,Yes
+Vancouver,,2,36,156,Yes
+Toronto,,23,31,1411,Yes
+Macau,,2,0,120,Yes
+Vancouver,,,20,20,Yes
+Toronto,,,50,50,Yes
+Australia,,,10,10,Yes
+Vancouver,,,23,23,Yes
+Macau,,4,41,281,Yes
+Macau,,1,35,95,Yes
+Toronto,,4,10,250,Yes
+Vancouver,,1,6,66,Yes
+Toronto,,1,35,95,Yes
+Hong Kong,,1,10,70,Yes
+Toronto,,4,0,240,Yes
+United States,,13,1,781,Yes
+Hong Kong,,1,20,80,Yes
+Toronto,,1,10,70,Yes
+Toronto,,1,20,80,Yes
+Toronto,,5,0,300,Yes
+Toronto,,12,0,720,Yes
+England,,45,36,2736,Yes
+Toronto,,,30,30,Yes
+Toronto,,6,22,382,Yes
+Toronto,,57,4,3424,Yes
+Toronto,,47,20,2840,Yes
+Toronto,,31,6,1866,Yes
+Toronto,,29,10,1750,Yes
+Toronto,,1,20,80,Yes
+Toronto,,13,33,813,Yes
+Toronto,,12,50,770,Yes
+New Zealand,,13,50,830,Yes
+Toronto,,6,30,390,Yes
+Hong Kong,,6,50,410,Yes
+Hong Kong,,,20,20,Yes
+Hong Kong,,30,44,1844,Yes
+Toronto,,,50,50,Yes
+Toronto,,13,29,809,Yes
+Hong Kong,,5,41,341,Yes
+Toronto,,5,0,300,Yes
+Toronto,,4,30,270,Yes
+Hong Kong,,24,2,1442,Yes
+United States,,59,7,3547,Yes
+Toronto,,3,10,190,Yes
+Hong Kong,,23,7,1387,Yes
+United States,,17,59,1079,Yes
+Toronto,,12,52,772,Yes
+Toronto,,2,23,143,Yes
+Hong Kong,,34,19,2059,Yes
+United States,,46,39,2799,Yes
+Hong Kong,,,20,20,Yes
+Toronto,,,35,35,Yes
+United States,,1,32,92,Yes
+Toronto,,16,15,975,Yes
+Toronto,,4,20,260,Yes
+Toronto,,20,30,1230,Yes
+Toronto,,,10,10,Yes
+Hong Kong,,2,0,120,Yes
+Toronto,,,30,30,Yes
+Toronto,,4,0,240,Yes
+Hong Kong,,30,22,1822,Yes
+Toronto,,20,29,1229,Yes
+Malaysia,,14,30,870,Yes
+Taiwan,,1,20,80,Yes
+Australia,,37,9,2229,Yes
+Hong Kong,,23,23,1403,Yes
+Toronto,,,35,35,Yes
+Vancouver,,59,3,3543,Yes
+Toronto,,,50,50,Yes
+Toronto,,1,50,110,Yes
+Toronto,,,20,20,Yes
+Vancouver,,1,2,62,Yes
+Hong Kong,,45,0,2700,Yes
+Vancouver,,8,40,520,Yes
+Hong Kong,,,50,50,Yes
+Australia,,1,30,90,Yes
+Vancouver,,21,15,1275,Yes
+Vancouver,,,20,20,Yes
+Toronto,,12,25,745,Yes
+Toronto,,11,11,671,Yes
+United States,,31,25,1885,Yes
+Vancouver,,,10,10,Yes
+Toronto,,34,18,2058,Yes
+Toronto,,38,33,2313,Yes
+United States,,,30,30,Yes
+Hong Kong,,18,51,1131,Yes
+Toronto,,13,42,822,Yes
+Toronto,,14,33,873,Yes
+Toronto,,14,31,871,Yes
+Toronto,,31,48,1908,Yes
+United States,,41,54,2514,Yes
+Hong Kong,,19,27,1167,Yes
+Toronto,,1,20,80,Yes
+Toronto,,,19,19,Yes
+Toronto,,1,50,110,Yes
+Toronto,,2,57,177,Yes
+Toronto,,8,49,529,Yes
+Toronto,,9,26,566,Yes
+Toronto,,9,32,572,Yes
+Hong Kong,,49,53,2993,Yes
+Toronto,,1,0,60,Yes
+United States,,11,50,710,Yes
+Toronto,,4,33,273,Yes
+Hong Kong,,1,30,90,Yes
+Alberta,,29,19,1759,Yes
+Toronto,,20,20,1220,Yes
+Toronto,,6,22,382,Yes
+Toronto,,13,30,810,Yes
+Toronto,,3,22,202,Yes
+Toronto,,40,10,2410,Yes
+Toronto,,5,33,333,Yes
+Toronto,,1,17,77,Yes
+Toronto,,31,57,1917,Yes
+Toronto,,,11,11,Yes
+Hong Kong,,1,20,80,Yes
+Vancouver,,2,49,169,Yes
+Vancouver,,52,57,3177,Yes
+Toronto,,4,51,291,Yes
+United States,,1,30,90,Yes
+Vancouver,,1,10,70,Yes
+Australia,,28,26,1706,Yes
+Toronto,,,41,41,Yes
+Toronto,,21,1,1261,Yes
+Toronto,,4,8,248,Yes
+Toronto,,21,1,1261,Yes
+Toronto,,6,44,404,Yes
+Hong Kong,,5,0,300,Yes
+Hong Kong,,7,5,425,Yes
+Hong Kong,,2,30,150,Yes
+Toronto,,9,50,590,Yes
+Toronto,,8,26,506,Yes
+Toronto,,,31,31,Yes
+Toronto,,3,25,205,Yes
+Toronto,,59,56,3596,Yes
+Hong Kong,,15,49,949,Yes
+Toronto,,35,15,2115,Yes
+United States,,,29,29,Yes
+Toronto,,,30,30,Yes
+Vancouver,,3,32,212,Yes
+Toronto,,2,0,120,Yes
+Alberta,,1,0,60,Yes
+Alberta,,7,40,460,Yes
+Toronto,,33,30,2010,Yes
+Hong Kong,,,21,21,Yes
+Toronto,,22,52,1372,Yes
+Toronto,,,50,50,Yes
+Vancouver,,23,22,1402,Yes
+United States,,30,42,1842,Yes
+United States,,9,40,580,Yes
+Toronto,,43,22,2602,Yes
+Toronto,,,16,16,Yes
+Toronto,,24,11,1451,Yes
+Toronto,,3,30,210,Yes
+United States,,9,3,543,Yes
+Toronto,,2,10,130,Yes
+Toronto,,3,28,208,Yes
+United States,,6,10,370,Yes
+Toronto,,6,36,396,Yes
+Toronto,,8,43,523,Yes
+Toronto,,9,9,549,Yes
+Toronto,,6,28,388,Yes
+Toronto,,6,20,380,Yes
+Toronto,,2,15,135,Yes
+Toronto,,3,18,198,Yes
+Toronto,,2,52,172,Yes
+Toronto,,4,59,299,Yes
+Toronto,,3,33,213,Yes
